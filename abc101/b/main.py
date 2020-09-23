@@ -9,3 +9,4 @@ if int(N) % S(N) == 0:
     print('Yes')
 else:
     print('No')
+
